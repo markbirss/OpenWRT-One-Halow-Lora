@@ -3,7 +3,7 @@ Meshtastic and Halow running on OpenWRT One
 
 Halow via USB
 
-SX1262/LR1121 via mikroBUS socket
+SX1262/LR1121 via mikroBUS socket /dev/spidev2.0
 
 <img width="985" height="609" alt="image" src="https://github.com/user-attachments/assets/9e7e0f50-0e9a-445a-9095-048226a69930" />
 
