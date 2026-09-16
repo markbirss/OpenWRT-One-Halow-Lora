@@ -15,3 +15,9 @@ SX1262/LR1121 via mikroBUS socket /dev/spidev2.0
 <img width="1719" height="1381" alt="image" src="https://github.com/user-attachments/assets/20d1cdec-1cba-4ff8-b748-8bb8e944cc70" />
 
 <img width="1013" height="761" alt="image" src="https://github.com/user-attachments/assets/99a7a851-b549-4371-80af-86fe6309bbbd" />
+
+
+```
+Halow_support_for_OpenWRT_One.txt:fw_setenv boot_production 'led white on ; run ubi_read_production && bootm $loadaddr#$bootconf#mt7981b-openwrt-one-mikrobus-spidev ; led white off'
+
+```
