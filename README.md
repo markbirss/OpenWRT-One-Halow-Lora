@@ -21,3 +21,7 @@ SX1262/LR1121 via mikroBUS socket /dev/spidev2.0
 Halow_support_for_OpenWRT_One.txt:fw_setenv boot_production 'led white on ; run ubi_read_production && bootm $loadaddr#$bootconf#mt7981b-openwrt-one-mikrobus-spidev ; led white off'
 
 ```
+
+Tested also my HALOWSTICK under windows
+
+<img width="1707" height="1060" alt="image" src="https://github.com/user-attachments/assets/843a9dbb-e543-439e-939d-43ebd43b1bd1" />
