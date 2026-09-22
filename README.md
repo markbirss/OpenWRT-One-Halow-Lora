@@ -25,3 +25,13 @@ Halow_support_for_OpenWRT_One.txt:fw_setenv boot_production 'led white on ; run 
 Tested also my HALOWSTICK under windows
 
 <img width="1707" height="1060" alt="image" src="https://github.com/user-attachments/assets/843a9dbb-e543-439e-939d-43ebd43b1bd1" />
+
+## ⚠️ Disclaimer
+> **Warning:** Use of the firmware provided is entirely at your own risk. The project developer accept no liability for hardware damage, malfunctions, or safety hazards resulting from replication.
+
+---
+
+## ☕ Support My Work
+If this open hardware project brings utility to you, consider supporting my design pipeline!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mark.birss)
