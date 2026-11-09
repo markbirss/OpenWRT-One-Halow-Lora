@@ -7,6 +7,11 @@ Made my own since it was not sold seperately yet
 
 <img width="3736" height="1017" alt="20260914_113201" src="https://github.com/user-attachments/assets/c1608303-ae03-465d-8f49-8da32661acaa" />
 
+Now Available Seperately
+
+3rd Party
+
+https://www.alibaba.com/product-detail/WFDG8108-WiFi-HaLow-Dongle-Plug-And_1601962754478.html
 
 SX1262/LR1121 via mikroBUS socket /dev/spidev2.0
 
