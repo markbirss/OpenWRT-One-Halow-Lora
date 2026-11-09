@@ -36,6 +36,10 @@ Tested also my HALOWSTICK under windows
 
 ---
 
+## Related Work
+
+https://github.com/markbirss/dell-wyze-3040-lora-halow
+
 ## ☕ Support My Work
 If this open hardware project brings utility to you, consider supporting my design pipeline!
 
